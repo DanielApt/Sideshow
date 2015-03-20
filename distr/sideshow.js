@@ -237,7 +237,7 @@
         "es": "Continuar"
       },
       finishWizard: {
-        "en": "Finish Wizard",
+        "en": "Okay",
         "pt-br": "Concluir Tutorial",
         "es": "Concluir Tutorial"
       }
